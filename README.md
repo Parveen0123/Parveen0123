@@ -33,12 +33,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Parveen0123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Parveen0123&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Parveen0123&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation of GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/Parveen0123/Parveen0123/output/snake.svg" alt="Snake animation of GitHub contributions" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Parveen0123&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! Happy Coding! 🚀</h3>
