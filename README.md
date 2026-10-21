@@ -51,13 +51,6 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parveen0123/Parveen0123/output/snake.svg" alt="Snake animation of GitHub contributions" />
-</p>
-
----
 
 ## 💭 Developer Quote
 
