@@ -1,26 +1,72 @@
-## Hi 👋 , I'm parveen
+# 👋 Hey, I'm Parveen!
 
+### 💻 Aspiring Developer | Tech Enthusiast | Lifelong Learner
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvsh090@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+projects;Learning+something+new+every+day;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=parveen0123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=parveen0123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=parveen0123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parveen0123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parveen0123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 I'm exploring new technologies and building projects.
+- 🌱 I'm continuously learning and improving my coding skills.
+- 💡 I enjoy solving problems and creating useful applications.
+- 🤝 I'm open to collaboration and exciting projects.
+- 📫 **Email:** [dhruvsh090@gmail.com](mailto:dhruvsh090@gmail.com)
+- ⚡ **Motto:** Learn, Code, Build, Repeat!
 
 ---
-[![](https://komarev.com/ghpvc/?username=parveen0123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvsh090@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,mysql,aws&perline=5" alt="Skills and tools" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation of GitHub contributions" />
+</p>
+
+---
+
+## 💭 Developer Quote
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! Happy Coding! 🚀</h3>
